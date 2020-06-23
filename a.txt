@@ -1,0 +1,7 @@
+class Site{
+    name():void{
+        console.log("Ryan")
+    }
+}
+var obj = new Site()
+obj.name()
